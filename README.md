@@ -5,6 +5,6 @@ Currently just a pile of simple substitutions of symbols and things.
 
 # Installation
 Install with pip:
-'''
+```
 pip install latext
-'''
+```
