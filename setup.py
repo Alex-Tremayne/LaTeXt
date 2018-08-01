@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='latext',
-      version='0.0.2',
+      version='0.0.7',
       description='For converting LaTeX to spoken text.',
       url='https://github.com/Alex-Tremayne/LaTeXt',
       author='Alex Tremayne',
